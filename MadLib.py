@@ -1,0 +1,18 @@
+Name = input("Enter a name: ")
+Adjective1 = input("Enter a adjective: ")
+Adjective2 = input("Enter another adjective: ")
+Adverb = input("Enter an Adverb: ")
+Food1 = input("Enter a food: ")
+Food2 = input("Enter another food: ")
+Noun = input("Enter a noun: ")
+Place = input("Enter a place: ")
+Verb = input("Enter a verb: ")
+
+print(Name + " was planning a dream vacation to " + Place +".")
+print(Name + " was especially looking forward to trying the local")
+print("cuisine, including " + Adjective1 + " " + Food1 + " and " + Adjective2 + " " + Food2 +".\n")
+print(Name + " will have to practice the language " + Adverb + " to" )
+print("make it easier to " + Verb + " with people.\n")
+print(Name + " has a long list of sights to see, including the")
+print(Noun + " museum and the " + Adjective1 + " river.")
+
